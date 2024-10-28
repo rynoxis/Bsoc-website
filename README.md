@@ -1,10 +1,3 @@
-<div align="center">
-
-# 👨‍💻BSoC Website
-####  Hello developers✨!!..welcome to Bitbyte Summer of Code.. a wonderful chance for dedicated coders.
-
-</div>
-
 This website seeks to connect you with open source, free software, and tech-related initiatives where you may study and develop code. The projects offer mentors who serve as guides throughout the whole process, from getting to know the community to contributing code. 
 
 ## 🗒️Features
@@ -32,13 +25,3 @@ You can check your node and npm versions by typing the mentioned commands in the
 node -v
 npm -v
 ```
-
-## Run Locally 💻
-
-See [Contributing.md](Contributing.md) for step-by-step procedure.
-
-## License
-The Programming Club, IIITDM Jabalpur
-
-## Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
